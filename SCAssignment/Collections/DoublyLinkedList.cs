@@ -3,6 +3,9 @@ using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("Collections.Test")]
 namespace Collections {
+    /// <summary>
+    /// Represents a doubly linked list.
+    /// </summary>
     public class DoublyLinkedList : ILinkedList {
         private int _count;
         private DoublyLinkedListNode _head;

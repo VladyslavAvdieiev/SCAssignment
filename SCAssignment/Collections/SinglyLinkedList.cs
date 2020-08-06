@@ -3,6 +3,9 @@ using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("Collections.Test")]
 namespace Collections {
+    /// <summary>
+    /// Represents a singly linked list.
+    /// </summary>
     public class SinglyLinkedList : ILinkedList {
         private int _count;
         private SinglyLinkedListNode _head;
