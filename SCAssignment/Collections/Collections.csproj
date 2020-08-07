@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>SCAssignment.Collections</PackageId>
+    <Version>1.0</Version>
+    <Authors>Vladyslav Avdieiev</Authors>
+    <Company>SC</Company>
   </PropertyGroup>
 
 </Project>
