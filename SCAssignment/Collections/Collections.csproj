@@ -6,6 +6,7 @@
     <Version>1.0</Version>
     <Authors>Vladyslav Avdieiev</Authors>
     <Company>SC</Company>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
 </Project>
