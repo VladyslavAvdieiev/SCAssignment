@@ -27,5 +27,5 @@ Tests were written using [xUnit](https://www.nuget.org/packages/xunit/) testing 
 
 #### General
 The repo has [workflow automation file](https://github.com/VladyslavAvdieiev/SCAssignment/blob/master/.github/workflows/dotnet-core.yml) 
-which triggers every time the commit reaches the master branch. In does build, runs tests and publish new version of 
+which is triggered every time the commit reaches the master branch. It does build, runs tests and publishes new version of 
 [NuGet package](https://www.nuget.org/packages/SCAssignment.Collections/).
